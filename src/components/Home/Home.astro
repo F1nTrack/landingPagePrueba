@@ -1,9 +1,11 @@
 ---
 import Button from './Button.astro';
+import Stats from './Stats.astro';
 ---
 
 <section id="home" class="max-w-7xl mx-28 py-7  grid grid-cols-2">
-    <div class="border-b max-w-fit">
+    <section class="max-w-fit">
+        <section class="border-b">
         <h1 class="text-6xl font-bold">Tu identidad digital</h1>
         <div class="max-w-md">
         <h1 class="text-6xl  text-blue-800 font-bold mb-4">mas segura que  nunca</h1>
@@ -42,14 +44,32 @@ import Button from './Button.astro';
                 <p slot="after" class="px-3">Ver Demo</p>
             </Button>
         </div>
+        </section>
+        <section class="flex gap-4 py-4">
+            <Stats>
+                <span slot="number">+10K</span>
+                <span slot="string">Usuarios activos</span>
+            </Stats>
+
+            <Stats>
+                <span slot="number">99.9%</span>
+                <span slot="string">Disponibilidad</span>
+            </Stats>
+
+            <Stats>
+                <span slot="number">24/7</span>
+                <span slot="string">Soporte disponible</span>
+            </Stats>
+        </section>
 
 
-    </div>
 
-    <div class="text-left py-20">
+    </section>
+
+    <section class="text-left py-20">
         <p class="text-lg text-gray-700">Your gateway to the stars.</p>
         
-    </div>
+    </section>
     
 </section>
 
