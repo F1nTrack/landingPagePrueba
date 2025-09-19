@@ -1,0 +1,137 @@
+[
+  {
+    "id": 1,
+    "Review": 5,
+    "Description": "KapakID ha transformado completamente la gestión de documentos digitales en mi familia. La implementación fue rápida y el soporte técnico excepcional.",
+    "Initials": "AG",
+    "Reviewer": "Ana Gómez",
+    "Rol": "Madre de Familia",
+    "CentroDeEstudios": null
+  },
+  {
+    "id": 2,
+    "Review": 4,
+    "Description": "KapakID facilita mi ingreso y uso de diversas utilidades en la ciudad. Desde el uso diario como el transporte hasta el uso privado como tarjetas.",
+    "Initials": "CM",
+    "Reviewer": "Carlos Mejía",
+    "Rol": "Estudiante",
+    "CentroDeEstudios": "UPC"
+  },
+  {
+    "id": 3,
+    "Review": 5,
+    "Description": "Gracias a KapakID ahora puedo organizar los trámites familiares en un solo lugar. Me ahorra tiempo y me da mucha tranquilidad.",
+    "Initials": "LR",
+    "Reviewer": "Lucía Rojas",
+    "Rol": "Madre de Familia",
+    "CentroDeEstudios": null
+  },
+  {
+    "id": 4,
+    "Review": 5,
+    "Description": "Como estudiante, KapakID me permite acceder a mi documentación de manera sencilla. Lo uso a diario para inscripciones y gestiones universitarias.",
+    "Initials": "DV",
+    "Reviewer": "Diego Vásquez",
+    "Rol": "Estudiante",
+    "CentroDeEstudios": "PUCP"
+  },
+  {
+    "id": 5,
+    "Review": 4,
+    "Description": "El servicio ha hecho que no dependa de carpetas físicas ni copias innecesarias. Todo lo tengo digital y seguro.",
+    "Initials": "MP",
+    "Reviewer": "María Pérez",
+    "Rol": "Independiente",
+    "CentroDeEstudios": null
+  },
+  {
+    "id": 6,
+    "Review": 5,
+    "Description": "KapakID me ha dado confianza para manejar mis documentos laborales y personales. Ahora puedo compartir información de forma rápida y segura.",
+    "Initials": "JE",
+    "Reviewer": "José Espinoza",
+    "Rol": "Independiente",
+    "CentroDeEstudios": null
+  },
+  {
+    "id": 7,
+    "Review": 5,
+    "Description": "Lo mejor de KapakID es que puedo usarlo para las tareas escolares. Me permite validar mis documentos sin complicaciones.",
+    "Initials": "SM",
+    "Reviewer": "Sofía Morales",
+    "Rol": "Estudiante",
+    "CentroDeEstudios": "UNMSM"
+  },
+  {
+    "id": 8,
+    "Review": 4,
+    "Description": "Como padre, me siento más seguro al tener todo lo relacionado a mis hijos digitalizado y en un solo lugar. Ha simplificado mucho mi vida.",
+    "Initials": "PG",
+    "Reviewer": "Pedro García",
+    "Rol": "Padre de Familia",
+    "CentroDeEstudios": null
+  },
+  {
+    "id": 9,
+    "Review": 5,
+    "Description": "Me encanta que KapakID tenga una interfaz sencilla. No soy muy tecnológica y aun así lo manejo sin problema.",
+    "Initials": "EC",
+    "Reviewer": "Elena Castillo",
+    "Rol": "Madre de Familia",
+    "CentroDeEstudios": null
+  },
+  {
+    "id": 10,
+    "Review": 4,
+    "Description": "En la universidad me piden constantemente certificados y documentos. Con KapakID los tengo siempre listos y accesibles.",
+    "Initials": "FR",
+    "Reviewer": "Fernando Ruiz",
+    "Rol": "Estudiante",
+    "CentroDeEstudios": "USIL"
+  },
+  {
+    "id": 11,
+    "Review": 5,
+    "Description": "KapakID ha sido un aliado en mis gestiones como emprendedora independiente. Puedo almacenar contratos y acceder desde cualquier dispositivo.",
+    "Initials": "VC",
+    "Reviewer": "Valeria Córdova",
+    "Rol": "Independiente",
+    "CentroDeEstudios": null
+  },
+  {
+    "id": 12,
+    "Review": 5,
+    "Description": "Antes tenía mis papeles desordenados y siempre perdía tiempo. Con KapakID me siento más organizada y tranquila.",
+    "Initials": "MT",
+    "Reviewer": "Marcela Torres",
+    "Rol": "Madre de Familia",
+    "CentroDeEstudios": null
+  },
+  {
+    "id": 13,
+    "Review": 4,
+    "Description": "Lo uso como estudiante de posgrado y me funciona excelente. La validación de documentos es rápida y confiable.",
+    "Initials": "GG",
+    "Reviewer": "Gabriel Gutiérrez",
+    "Rol": "Estudiante",
+    "CentroDeEstudios": "ESAN"
+  },
+  {
+    "id": 14,
+    "Review": 5,
+    "Description": "KapakID ha simplificado la forma en que comparto documentos con familiares y amigos. Muy útil y práctico.",
+    "Initials": "RC",
+    "Reviewer": "Rosa Contreras",
+    "Rol": "Madre de Familia",
+    "CentroDeEstudios": null
+  },
+  {
+    "id": 15,
+    "Review": 5,
+    "Description": "Me parece una herramienta indispensable para cualquier profesional independiente. La seguridad de mis datos está garantizada.",
+    "Initials": "AM",
+    "Reviewer": "Alberto Medina",
+    "Rol": "Independiente",
+    "CentroDeEstudios": null
+  }
+]
